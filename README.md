@@ -1,4 +1,4 @@
-![Header](./github-header-image-2.png)
+![Header](./github-header-image-3.png)
 
 <h1 align="center">Welcome</h1>
 <h3 align="center">Data Scientist, Machine Learning Engineer and Software Engineer from Florida.</h3>
